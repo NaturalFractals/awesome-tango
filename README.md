@@ -10,12 +10,12 @@ All links are welcome, just submit a pull request! Thanks to all!
 ## Official Resources
 * [Official Site](https://www.google.com/atap/project-tango/)
 * [Get Started](https://developers.google.com/project-tango/)
-* [tango-examples-unity](https://github.com/googlesamples/tango-examples-unity) - Google's Project Tango examples for Unity.
-* [tango-examples-java](http://github.com/googlesamples/tango-examples-java) - Example projects for Project Tango Java API.
-* [tango-examples-c](https://github.com/googlesamples/tango-examples-c) - JNI example projects for Project Tango C-API.
+* [Project Tango Examples Unity](https://github.com/googlesamples/tango-examples-unity) - Google's Project Tango examples for Unity.
+* [Project Tango Examples Java](http://github.com/googlesamples/tango-examples-java) - Example projects for Project Tango Java API.
+* [Project Tango Examples C](https://github.com/googlesamples/tango-examples-c) - JNI example projects for Project Tango C-API.
 
 ## Community
-* [Project Tango Developers](https://plus.google.com/communities/114537896428695886568) - Official Project Tango community.
+* [Project Tango Developers G+](https://plus.google.com/communities/114537896428695886568) - Official Project Tango community.
 
 ## Video
 * [Say hello to Project Tango](https://www.youtube.com/watch?v=Qe10ExwzCqk)
