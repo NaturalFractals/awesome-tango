@@ -7,9 +7,6 @@ A curated list of awesome Project Tango projects, libraries, and software. Inspi
 ### Contributing
 All links are welcome, just submit a pull request! Thanks to all!
 
-#### *If there is a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
-
-
 ## Official Resources
 * [Official Site](https://www.google.com/atap/project-tango/)
 * [Get Started](https://developers.google.com/project-tango/)
