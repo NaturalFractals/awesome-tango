@@ -1,4 +1,4 @@
-# awesome-tango
+# Awesome Tango [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 Collection of Project Tango resources
 
 A curated list of awesome Project Tango projects, libraries, and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go)!
