@@ -32,3 +32,4 @@ All links are welcome, just submit a pull request! Thanks to all!
 ## Other
 * [Tango For Robots](https://github.com/Project-Tango-for-Robotics)
 * [Project Tango StackOverFlow](https://stackoverflow.com/questions/tagged/google-project-tango)
+* [Project Tango Development Environment](https://hub.docker.com/r/toddsampson/project-tango-dev-environment/) - Android Studio development environment created for Google's Project Tango using Docker.
